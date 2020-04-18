@@ -1,0 +1,26 @@
+body {
+    background: rosybrown;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.container .binary-search {
+    margin: 150px 0 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container .binary-search input {
+    background: tan;
+    border: 3px solid royalblue;
+    margin: 0 0 20px 0;
+    padding: 5px;
+}
+
+.container .binary-search .out {
+    margin: 0 0 20px 0;
+}
